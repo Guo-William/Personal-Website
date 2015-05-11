@@ -14,6 +14,7 @@
   overflow:hidden;
 }
 
+/*the text on the banner with my name on it*/
 .name
 {
   position:relative;
@@ -45,24 +46,27 @@ body {
   background-color: #191818;
 }
 
+/*this one is the same as a regular
+"item" but will have the nice border on top*/
 .menu-divide
 {
   padding: 10px 25px;
   border-top: 1px solid #333;
 }
-
+/*regular menu item*/
 .menu-item
 {
   padding: 10px 25px;
 }
 
+/*colors the links for the menu*/
 a.reg-link
 {
   color: #999;
   font-size: 125%;
   text-decoration: none;
 }
-
+/*special characteristics for the home button*/
 .link-home
 {
   font-size: 150%;
@@ -70,7 +74,7 @@ a.reg-link
   letter-spacing: 0.1em;
   padding: 15px 33px;
 }
-
+/* the headshot image's div; is blue*/
 .head-shot
 {
   position: absolute;
@@ -80,20 +84,17 @@ a.reg-link
   background-color: #69D2E7;
   padding: 20px;
 }
-
+/*helps position the headshot relative to the div*/
 img.head
 {
   position:relative;
   left: 5px;
 }
 
+/* for the actual button*/
 a.home
 {
   color: #FFFFFF;
   text-transform: uppercase;
   text-decoration: none;
-}
-
-.name-styling {
-  font-style: normal;
 }
