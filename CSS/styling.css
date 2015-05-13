@@ -57,12 +57,21 @@ body {
   padding: 5% 25%;
 }
 
+
+
+
 /*colors the links for the menu*/
 a.reg-link
 {
   color: #999;
   font-size: 125%;
   text-decoration: none;
+}
+/* when hovering over a link in the menu bar it will
+turn white*/
+a.reg-link:hover
+{
+  color:white;
 }
 /*special characteristics for the home button*/
 .link-home
