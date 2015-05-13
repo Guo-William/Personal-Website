@@ -7,10 +7,9 @@
   height: 300px;
   width: 1000px;*/
   /*float: left;*/
-  padding: 0px 0px;
-  top: 0px;
-  left: 500px;
-  width:73.9%;
+  top: 0%;
+  left: 26.19%;
+  width:73.8%;
   overflow:hidden;
 }
 
@@ -18,15 +17,14 @@
 .name
 {
   position:relative;
-  left:50px;
+  left:4%;
   font-size: 125%;
 }
 .name:before
 {
   position:relative;
   content:"William Guo";
-  top: 0px;
-  left: -45px;
+  left: -3.5%;
   font-size:250%;
 }
 
@@ -40,9 +38,9 @@ body {
 {
   position: fixed;
   height: 100%;
-  left: 0;
-  top: 0px;
-  width: 150px;
+  left: 0%;
+  top: 0%;
+  width: 7.8%;
   background-color: #191818;
 }
 
@@ -50,13 +48,13 @@ body {
 "item" but will have the nice border on top*/
 .menu-divide
 {
-  padding: 10px 25px;
+  padding: 5% 25%;
   border-top: 1px solid #333;
 }
 /*regular menu item*/
 .menu-item
 {
-  padding: 10px 25px;
+  padding: 5% 25%;
 }
 
 /*colors the links for the menu*/
@@ -72,23 +70,23 @@ a.reg-link
   font-size: 150%;
   font-weight: 300;
   letter-spacing: 0.1em;
-  padding: 15px 33px;
+  padding: 10% 21%;
 }
 /* the headshot image's div; is blue*/
 .head-shot
 {
   position: absolute;
-  top: 0px;
-  left: 150px;
-  width: 310px;
+  top: 0%;
+  left: 7.8%;
+  width: 16.3%;
   background-color: #69D2E7;
-  padding: 20px;
+  padding: 1.05%;
 }
 /*helps position the headshot relative to the div*/
 img.head
 {
   position:relative;
-  left: 5px;
+  left: 2%;
 }
 
 /* for the actual button*/
