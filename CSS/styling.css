@@ -1,12 +1,7 @@
 /*This is to color the heading with my name and univerisity. */
-
 .theTop {
   background-color: #FA6900;
   position: absolute;
-  /*tline-height: 30px;
-  height: 300px;
-  width: 1000px;*/
-  /*float: left;*/
   top: 0%;
   left: 24.1%;
   width:73.8%;
@@ -20,6 +15,7 @@
   left:4%;
   font-size: 125%;
 }
+/*puts the name before the description*/
 .name:before
 {
   position:relative;
@@ -27,12 +23,11 @@
   left: -3.5%;
   font-size:250%;
 }
-
 /*The background color of the entire page. */
 body {
   background-color: #E0E4CD;
 }
-
+/*The black-grey strip on the side*/
 ul.toolbar
 {
     list-style-type: none;
@@ -45,24 +40,22 @@ ul.toolbar
     margin: 0%;
     padding: 0%;
 }
-
+/*breaks up the words if the space is limited*/
 #tab_navigation
 {
   word-wrap:break-word
 }
-
 /*regular menu item*/
 .menu-item
 {
   padding: 5% 25%;
 }
-
+/*is a menu item but with a border on the top*/
 .menu-divide
 {
   padding: 5% 25%;
   border-top: 1px solid #333;
 }
-
 /*colors the links for the menu*/
 a.reg-link
 {
@@ -100,11 +93,19 @@ img.head
   position:relative;
   left: 2%;
 }
-
 /* for the actual button*/
 a.home
 {
   color: #FFFFFF;
   text-transform: uppercase;
   text-decoration: none;
+}
+
+.resume
+{
+  position: relative;
+  width: 45%;
+  height: 970px;
+  left: 20%;
+  border: none;
 }
