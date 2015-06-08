@@ -109,3 +109,17 @@ a.home
   left: 20%;
   border: none;
 }
+
+.resume-dl
+{
+  position: relative;
+  left: 34%;
+  font-size: 150%;
+  text-decoration: none;
+  color: #000000
+}
+
+.resume-dl:hover
+{
+  color:white;
+}
