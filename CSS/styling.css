@@ -4,7 +4,7 @@
   position: absolute;
   top: 0%;
   left: 24.1%;
-  width:73.8%;
+  width:75.9%;
   overflow:hidden;
 }
 
@@ -122,4 +122,27 @@ a.home
 .resume-dl:hover
 {
   color:white;
+}
+
+.anemoslips
+{
+  position: relative;
+  left:5.4%;
+  width: 90%;
+  top: 15px;
+}
+
+.project-blue
+{
+  position: relative;
+  background-color: #69D2E7;
+  left: 10%;
+  width: 23%;
+  height: 290px;
+}
+
+p.project-description
+{
+  text-align: center;
+  font-family: "Times New Roman";
 }
