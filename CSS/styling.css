@@ -48,19 +48,19 @@ ul.toolbar
 /*regular menu item*/
 .menu-item
 {
-  padding: 5% 25%;
+  padding: 5% 20%;
 }
 /*is a menu item but with a border on the top*/
 .menu-divide
 {
-  padding: 5% 25%;
+  padding: 5% 20%;
   border-top: 1px solid #333;
 }
 /*colors the links for the menu*/
 a.reg-link
 {
   color: #999;
-  font-size: 125%;
+  font-size: 110%;
   text-decoration: none;
 }
 /* when hovering over a link in the menu bar it will
@@ -75,7 +75,7 @@ a.reg-link:hover
   font-size: 150%;
   font-weight: 300;
   letter-spacing: 0.1em;
-  padding: 10% 21%;
+  padding: 10% 15%;
 }
 /* the headshot image's div; is blue*/
 .head-shot
