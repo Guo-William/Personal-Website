@@ -1,4 +1,4 @@
-var navigation  = new Array();  // This is for the navigation.
+var navigation  = [];  // This is for the navigation.
 
 // ==================== Navigation ==================== //
 navigation[0]   = '<div id="tab_navigation">';
@@ -12,8 +12,8 @@ navigation[7]   = '</div>';
 
 function show(i)
  {
-  for (x in i)
+  for (var x in i)
   {
-   document.write(i[x]+'\n')
+   document.write(i[x]+'\n');
   }
  }
