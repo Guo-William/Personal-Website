@@ -4,28 +4,27 @@
   position: absolute;
   top: 0%;
   left: 22.0%;
-  width:75.9%;
-  overflow:hidden;
-  float:left;
+  width:78%;
 }
 
 /*the text on the banner with my name on it*/
 .name
 {
   position:relative;
-  left:4%;
   font-size: 125%;
+  padding-left: 3%
 }
 /*puts the name before the description*/
 .name:before
 {
   position:relative;
   content:"William Guo";
-  left: -3.5%;
+  left: -2.5%;
   font-size:250%;
 }
+
 /*The background color of the entire page. */
-body {
+.background-color-for-body {
   background-color: #E0E4CD;
 }
 /*The black-grey strip on the side*/
