@@ -151,7 +151,7 @@ p.project-description
 
 
 
-@media (min-width: 768px) {
+@media only screen and (min-width: 768px) {
   .navbar-collapse {
     height: 0;
     border-top: 0;
@@ -192,7 +192,7 @@ p.project-description
 }
 }
 
-@media (min-width: 4000px) {
+@media only screen and (min-width: 4000px) {
   .derpington {
     height:100vh !important;
     margin:0;
