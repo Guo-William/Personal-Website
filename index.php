@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="CSS/styling.css">
 </head>
 
-<body class="background-color-for-body">
+<body>
     <div class="container-fluid">
       <!-- There is require here-->
       <?php require('includes/navbar.php');?>

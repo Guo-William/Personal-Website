@@ -24,7 +24,7 @@
 }
 
 /*The background color of the entire page. */
-.background-color-for-body {
+body {
   background-color: #E0E4CD;
 }
 /*The black-grey strip on the side*/
