@@ -2,10 +2,10 @@
 <html>
 
 <head>
-  <link rel="stylesheet" href="../CSS/styling.css">
   <script src="jquery-2.1.4.js"></script>
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <!--<script type="text/javascript" src="../includes.js"></script>-->
+  <link rel="stylesheet" href="../CSS/styling.css">
 </head>
 
 <body>
