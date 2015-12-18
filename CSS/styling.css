@@ -1,6 +1,7 @@
 /*This is to color the heading with my name and univerisity. */
 .theTop {
   background-color: #FA6900;
+  padding:0;
   /*position: absolute;*/
   /*top: 0;*/
   /*left: 22.0%;*/
