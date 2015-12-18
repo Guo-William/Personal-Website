@@ -17,7 +17,7 @@
 <!--      <li><a href="/pages/Projects.php">Projects</a></li>-->
 <!--      <li><a href="/pages/Resume.php">Resume</a></li>-->
 <!--    </ul>-->
-<!--  </div><!-- /.navbar-collapse -->-->
+<!--  </div><!-- /.navbar-collapse -->
 <!--</nav>-->
 <!--</div>-->
 
