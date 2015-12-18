@@ -25,11 +25,11 @@
     <!-- There is require here-->
     <?php require('includes/navbar.php');?>
     <!--<script type="text/javascript">show(navigation);</script>-->
-
-
+    <div class="col-xs-12 col-sm-1 col-md-1 col-lg-1">
     <div class="head-shot">
       <img class="head" src="images\headshot.jpg" alt="Headshot"
       style="width:96%; height:96%;">
+    </div>
     </div>
     <div class="theTop">
       <p class="name">
