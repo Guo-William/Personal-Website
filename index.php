@@ -25,7 +25,7 @@
     <!-- There is require here-->
     <!--<script type="text/javascript">show(navigation);</script>-->
     <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-      <?php require('/includes/navbar.php');?>
+      <?php require('../includes/navbar.php');?>
     </div>
       <div class="head-shot col-xs-12 col-sm-6 col-md-3 col-lg-3">
         <img class="head" src="images\headshot.jpg" alt="Headshot"
