@@ -21,17 +21,17 @@
 </head>
 
 <body>
+  <?php require('includes/navbar.php');?>
   <div>
     <!-- There is require here-->
-    <?php require('includes/navbar.php');?>
     <!--<script type="text/javascript">show(navigation);</script>-->
-    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-12">
-    <div class="head-shot">
-      <img class="head" src="images\headshot.jpg" alt="Headshot"
-      style="width:96%; height:96%;">
+    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-6">
+      <div class="head-shot">
+        <img class="head" src="images\headshot.jpg" alt="Headshot"
+        style="width:96%; height:96%;">
+      </div>
     </div>
-    </div>
-    <div class="theTop">
+    <div class="theTop col-xs-12 col-sm-6 col-md-3 col-lg-6">
       <p class="name">
         <br>
         Undergraduate At Northeastern University, Boston, MA<br>
