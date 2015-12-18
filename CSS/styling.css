@@ -151,7 +151,7 @@ p.project-description
 
 @media (min-width: 768px) {
   .navbar-collapse {
-    height: auto;
+    height: 0;
     border-top: 0;
     box-shadow: none;
     max-height: none;
