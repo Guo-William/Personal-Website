@@ -148,18 +148,7 @@ p.project-description
 
 /* Here lies the navbar CSS */
 
-@media (min-width: 2000px) {
-  .navbar {
-    height:100vh;
-    margin:0;
-    border:0;
-  }
-  .navbar-inverse {
-    height:100vh;
-    margin:0;
-    border:0;
-  }
-}
+
 
 
 @media (min-width: 768px) {
@@ -200,4 +189,17 @@ p.project-description
 .navbar-collapse .navbar-nav.navbar-right:last-child {
     margin-right: 0;
 }
+}
+
+@media (min-width: 2000px) {
+  .navbar {
+    height:100vh;
+    margin:0;
+    border:0;
+  }
+  .navbar-inverse {
+    height:100vh;
+    margin:0;
+    border:0;
+  }
 }
