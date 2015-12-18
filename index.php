@@ -21,7 +21,7 @@
 </head>
 
 <body>
-  <div class="container-fluid">
+  <div>
     <!-- There is require here-->
     <?php require('includes/navbar.php');?>
     <!--<script type="text/javascript">show(navigation);</script>-->
