@@ -190,16 +190,3 @@ p.project-description
     margin-right: 0;
 }
 }
-
-@media (min-width: 2000px) {
-  .navbar {
-    height:100vh;
-    margin:0;
-    border:0;
-  }
-  .navbar-inverse {
-    height:100vh;
-    margin:0;
-    border:0;
-  }
-}
