@@ -1,4 +1,4 @@
-  <nav class="navbar navbar-inverse" style="margin:0;border:0;" role="navigation">
+  <nav class="navbar navbar-inverse" style="height:100vh;margin:0;border:0;" role="navigation">
   <!-- Brand and toggle get grouped for better mobile display -->
   <div class="navbar-header">
     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
