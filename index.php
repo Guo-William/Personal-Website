@@ -15,13 +15,15 @@
     <!-- Latest compiled JavaScript -->
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script src="jquery-2.1.4.js"></script>
-    <script type="text/javascript" src="includes/includes.js"></script>
+    <!--<script type="text/javascript" src="includes/includes.js"></script> -->
+    
     <link rel="stylesheet" href="CSS/styling.css">
 </head>
 
 <body class="background-color-for-body">
     <div class="container-fluid">
-        <script type="text/javascript">show(navigation);</script>
+      <?php require('includes/navbar.php');?>
+        <!--<script type="text/javascript">show(navigation);</script>-->
 
 
         <div class="head-shot">
@@ -33,7 +35,7 @@
                 <br>
                 Undergraduate At Northeastern University, Boston, MA<br>
                 Candidate for Bachelors of Science in Computer Science<br>
-                Fundamentals of Computer Science I Tutor at Northeastern University derp derp derp derp derp
+                Fundamentals of Computer Science I Tutor at Northeastern University
             </p>
         </div>
 
