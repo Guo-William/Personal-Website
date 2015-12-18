@@ -95,7 +95,7 @@ a.reg-link:hover
 img.head
 {
   position:relative;
-  left: 2%;
+  /*left: 2%;*/
 }
 
 .resume
