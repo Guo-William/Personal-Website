@@ -1,4 +1,5 @@
-<nav class="navbar navbar-inverse" role="navigation" style="height:100%;">
+<div class="sidebar-nav">
+  <nav class="navbar navbar-inverse" role="navigation" style="height:100%;">
   <!-- Brand and toggle get grouped for better mobile display -->
   <div class="navbar-header">
     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -18,3 +19,4 @@
     </ul>
   </div><!-- /.navbar-collapse -->
 </nav>
+</div>
