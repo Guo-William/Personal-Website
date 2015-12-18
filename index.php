@@ -29,7 +29,7 @@
         <img class="head" src="images\headshot.jpg" alt="Headshot"
         style="width:96%; height:96%;">
       </div>
-    <div class="theTop col-xs-12 col-sm-6 col-md-3 col-lg-7">
+    <div class="theTop col-xs-12 col-sm-6 col-md-3 col-lg-3">
       <p class="name">
         <br>
         Undergraduate At Northeastern University, Boston, MA<br>
