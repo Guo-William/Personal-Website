@@ -169,7 +169,7 @@ p.project-description
 
 .navbar
 {
-	max-width:123px;
+	max-width:100%;
 	margin-right: 0;
 	margin-left: 0;
 }
