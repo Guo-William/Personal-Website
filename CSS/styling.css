@@ -148,8 +148,13 @@ p.project-description
 
 /* Here lies the navbar CSS */
 
-@media (min-width: 9999px) {
+@media (min-width: 2000px) {
   .navbar {
+    height:100vh;
+    margin:0;
+    border:0;
+  }
+  .navbar-inverse {
     height:100vh;
     margin:0;
     border:0;
