@@ -28,8 +28,10 @@
     </div>
     <div class="head-shot col-xs-12 col-sm-3 col-md-2 col-lg-2">
       <div class="col-xs-2"></div>
-      <img class="head" src="images\headshot.jpg" alt="Headshot"
-        style="width:96%; height:96%;">
+      <div class="head-shot col-xs-10">
+        <img class="head" src="images\headshot.jpg" alt="Headshot"
+          style="width:96%; height:96%;">
+      </div>
       <div class="col-xs-2"></div>
     </div>
     <div class="theTop col-xs-12 col-sm-7 col-md-9 col-lg-9">
