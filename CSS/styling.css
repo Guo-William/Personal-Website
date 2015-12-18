@@ -84,7 +84,7 @@ a.reg-link:hover
 /* the headshot image's div; is blue*/
 .head-shot
 {
-  position: absolute;
+  position: relative;
   top: 0;
   left: 7.7%;
   width: 14.3%;
@@ -169,7 +169,7 @@ p.project-description
 
 .navbar
 {
-	max-width:120px;
+	max-width:123px;
 	margin-right: 0;
 	margin-left: 0;
 }
