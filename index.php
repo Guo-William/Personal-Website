@@ -23,7 +23,7 @@
 <body>
   
   <div>
-    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-1">
+    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-1" style="padding:0;">
       <?php require('includes/navbar.php');?>
     </div>
     <div class="head-shot col-xs-12 col-sm-6 col-md-3 col-lg-2">
