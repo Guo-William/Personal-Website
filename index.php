@@ -24,6 +24,7 @@
   <div>
     <!-- There is require here-->
     <!--<script type="text/javascript">show(navigation);</script>-->
+    <?php require('../includes/navbar.php');?>
     <div class="head-shot col-xs-12 col-sm-6 col-md-3 col-lg-3">
       <img class="head" src="images\headshot.jpg" alt="Headshot"
         style="width:96%; height:96%;">
