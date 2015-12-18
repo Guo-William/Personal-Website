@@ -148,6 +148,14 @@ p.project-description
 
 /* Here lies the navbar CSS */
 
+@media (max-width: 768px) {
+  .navbar {
+    height:100vh;
+    margin:0;
+    border:0;
+  }
+}
+
 
 @media (min-width: 768px) {
   .navbar-collapse {
