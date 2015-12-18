@@ -22,6 +22,7 @@
 
 <body class="background-color-for-body">
     <div class="container-fluid">
+      <!-- There is require here-->
       <?php require('includes/navbar.php');?>
         <!--<script type="text/javascript">show(navigation);</script>-->
 
