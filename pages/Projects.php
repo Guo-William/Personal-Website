@@ -8,7 +8,7 @@
 </head>
 
 <body>
-<?php require('/includes/navbar.php');?>
+<?php require('../includes/navbar.php');?>
 <div class=project-blue>
   <img class="anemoslips" src="..\images\AnemoSlips.jpg" alt="Innoservice: AnemoSlips">
   <p class="project-description">
