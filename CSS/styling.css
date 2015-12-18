@@ -194,7 +194,7 @@ p.project-description
 
 @media (min-width: 4000px) {
   .derpington {
-    height:100vh;
+    height:100vh !important;
     margin:0;
     border:0;
   }
