@@ -23,12 +23,14 @@
 <body>
   
   <div>
-    <?php require('includes/navbar.php');?>
-    <div class="head-shot col-xs-12 col-sm-6 col-md-3 col-lg-3">
+    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-2">
+      <?php require('includes/navbar.php');?>
+    </div>
+    <div class="head-shot col-xs-12 col-sm-6 col-md-3 col-lg-2">
       <img class="head" src="images\headshot.jpg" alt="Headshot"
         style="width:96%; height:96%;">
     </div>
-    <div class="theTop col-xs-12 col-sm-6 col-md-3 col-lg-3">
+    <div class="theTop col-xs-12 col-sm-6 col-md-3 col-lg-11">
       <p class="name">
         <br>
         Undergraduate At Northeastern University, Boston, MA<br>
