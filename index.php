@@ -26,11 +26,11 @@
     <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1" style="padding:0;">
       <?php require('includes/navbar.php');?>
     </div>
-    <div class="head-shot col-xs-2 col-sm-2 col-md-2 col-lg-2">
+    <div class="head-shot col-xs-4 col-sm-3 col-md-2 col-lg-2">
       <img class="head" src="images\headshot.jpg" alt="Headshot"
         style="width:96%; height:96%;">
     </div>
-    <div class="theTop col-xs-9 col-sm-9 col-md-9 col-lg-9">
+    <div class="theTop col-xs-7 col-sm-8 col-md-9 col-lg-9">
       <p class="name">
         <br>
         Undergraduate At Northeastern University, Boston, MA<br>
