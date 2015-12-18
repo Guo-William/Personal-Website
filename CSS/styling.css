@@ -84,10 +84,10 @@ a.reg-link:hover
 /* the headshot image's div; is blue*/
 .head-shot
 {
-  position: absolute;
-  top: 0;
-  left: 7.7%;
-  width: 14.3%;
+  /*position: absolute;*/
+  /*top: 0;*/
+  /*left: 7.7%;*/
+  /*width: 14.3%;*/
   background-color: #69D2E7;
   padding: 1.05%;
 }
