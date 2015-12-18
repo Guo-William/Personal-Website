@@ -2,7 +2,7 @@
 .theTop {
   background-color: #FA6900;
   position: absolute;
-  top: 0%;
+  top: 0;
   left: 22.0%;
   width:78%;
 }
@@ -30,21 +30,21 @@ body {
 /*The black-grey strip on the side*/
 ul.toolbar
 {
-    list-style-type: none;
-    position: fixed;
-    height: 100%;
-    left: 0%;
-    top: 0%;
-    width: 7.7%;
-    /*width: 123px;*/
-    background-color: #191818;
-    margin: 0%;
-    padding: 0%;
+  list-style-type: none;
+  position: fixed;
+  height: 100%;
+  left: 0;
+  top: 0;
+  width: 7.7%;
+  /*width: 123px;*/
+  background-color: #191818;
+  margin: 0;
+  padding: 0;
 }
 /*breaks up the words if the space is limited*/
 /*#tab_navigation
 {
-  word-wrap:break-word
+word-wrap:break-word
 }*/
 /*regular menu item*/
 .menu-item
@@ -85,7 +85,7 @@ a.reg-link:hover
 .head-shot
 {
   position: absolute;
-  top: 0%;
+  top: 0;
   left: 7.7%;
   width: 14.3%;
   background-color: #69D2E7;

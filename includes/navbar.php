@@ -6,4 +6,3 @@
     <li class="menu-item"><a class="reg-link" href="/pages/Resume.php"> Resume </a></li>
   </ul>
 </div>
-    
