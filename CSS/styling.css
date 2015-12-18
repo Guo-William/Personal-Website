@@ -84,7 +84,7 @@ a.reg-link:hover
 /* the headshot image's div; is blue*/
 .head-shot
 {
-  position: relative;
+  position: absolute;
   top: 0;
   left: 7.7%;
   width: 14.3%;
