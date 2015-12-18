@@ -94,7 +94,7 @@ a.reg-link:hover
 /*helps position the headshot relative to the div*/
 img.head
 {
-  position:relative;
+  /*position:relative;*/
   /*left: 2%;*/
 }
 
