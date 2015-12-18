@@ -21,9 +21,9 @@
 </head>
 
 <body>
-  <!--<div class="col-xs-12 col-sm-2 col-md-1 col-lg-1" style="padding:0;">-->
+  <div class="col-xs-12 col-sm-2 col-md-1 col-lg-1" style="padding:0;">
       <?php require('includes/navbar.php');?>
-    <!--</div>-->
+    </div>
   <div>
     <div class="head-shot col-xs-12 col-sm-3 col-md-2 col-lg-2">
         <img class="center-block" src="images\headshot.jpg" alt="Headshot"

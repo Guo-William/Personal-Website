@@ -172,6 +172,7 @@ p.project-description
 	max-width:100%;
 	margin-right: 0;
 	margin-left: 0;
+	max-height: none;
 }
 
 .navbar-nav,
