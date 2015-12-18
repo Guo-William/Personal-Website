@@ -27,12 +27,12 @@
       <?php require('includes/navbar.php');?>
     </div>
     <div class="head-shot col-xs-12 col-sm-3 col-md-2 col-lg-2">
-      <div class="col-xs-2"></div>
+      <div class="col-xs-1"></div>
       <div class="head-shot col-xs-10 col-sm-12 col-md-12 col-lg-12">
         <img class="head" src="images\headshot.jpg" alt="Headshot"
           style="width:96%; height:96%;">
       </div>
-      <div class="col-xs-2"></div>
+      <div class="col-xs-1"></div>
     </div>
     <div class="theTop col-xs-12 col-sm-7 col-md-9 col-lg-9">
       <p class="name">
