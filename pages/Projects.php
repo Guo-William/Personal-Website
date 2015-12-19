@@ -10,7 +10,7 @@
 
 <body>
   <div class="col-xs-12 col-sm-2 col-md-1 col-lg-1" style="padding:0;margin:0;">
-      <?php require('includes/navbar.php');?>
+      <?php require('/includes/navbar.php');?>
     </div>
     <div class="col-xs-12 col-sm-10 col-md-11 col-lg-11">
         <div class=project-blue>
