@@ -14,7 +14,7 @@
 </head>
 
 <body>
-  <div class="col-xs-12 col-sm-2 col-md-1 col-lg-1" style="padding:0;margin:0;">
+  <div class="col-xs-12 col-sm-2 col-md-1 col-lg-1" style="padding:0;margin:0;height:100%;">
       <?php require('../includes/navbar.php');?>
     </div>
   <div>
