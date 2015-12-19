@@ -170,25 +170,25 @@ p.project-description
     overflow-x: visible;
   }
 
-.navbar
-{
-	max-width:100%;
-	margin-right: 0;
-	margin-left: 0;
-	max-height: none;
-}
-
-.navbar-nav,
-.navbar-nav > li,
-.navbar-left,
-.navbar-right,
-.navbar-header
-{float:none !important;}
-
-.navbar-right .dropdown-menu {left:0;right:auto;}
-.navbar-collapse .navbar-nav.navbar-right:last-child {
+  .navbar
+  {
+    max-width:100%;
     margin-right: 0;
-}
+    margin-left: 0;
+    max-height: none;
+  }
+
+  .navbar-nav,
+  .navbar-nav > li,
+  .navbar-left,
+  .navbar-right,
+  .navbar-header
+  {float:none !important;}
+
+  .navbar-right .dropdown-menu {left:0;right:auto;}
+  .navbar-collapse .navbar-nav.navbar-right:last-child {
+    margin-right: 0;
+  }
 }
 
 /*@media only screen and (min-width: 4000px) {*/
@@ -200,9 +200,9 @@ p.project-description
 /*}*/
 
 .derpington {
-    height:100vh !important;
-    margin:0;
-    border:0;
+  height:100vh !important;
+  margin:0;
+  border:0;
 }
 
 @media only screen and (max-width: 768px) {
