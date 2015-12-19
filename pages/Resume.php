@@ -23,8 +23,9 @@
     >Download My Resume Here<</a>
   </div>
 
-  <iframe class="resume";
-  src="https://docs.google.com/document/d/1qDgHNP7BvXtLPh
-  9mAkeUZmysOFoWKzAAlBG_rEM6pIk/pub?embedded=true" ></iframe>
+  <embed src="../docu/WGResume.pdf" width="800px" height="2100px">
+  <!--<iframe class="resume";-->
+  <!--src="https://docs.google.com/document/d/1qDgHNP7BvXtLPh-->
+  <!--9mAkeUZmysOFoWKzAAlBG_rEM6pIk/pub?embedded=true" ></iframe>-->
 </body>
 </html>
