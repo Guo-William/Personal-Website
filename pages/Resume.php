@@ -14,18 +14,8 @@
 </head>
 
 <body>
-  <div class="col-xs-12 col-sm-2 col-md-1 col-lg-1" style="padding:0;margin:0;height:100%;">
+  <div class="col-xs-12 col-sm-2 col-md-1 col-lg-1" style="padding:0;margin:0;">
       <?php require('../includes/navbar.php');?>
     </div>
-  <div>
-    <a class="resume-dl"
-    href="https://docs.google.com/document/d/1qDgHNP7BvXtLPh9mAkeUZmysOFoWKzAAlBG_rEM6pIk/edit">
-    >Download My Resume Here<</a>
-  </div>
-
-  <embed src="../docu/WGResume.pdf" width="800px" height="1000px">
-  <!--<iframe class="resume";-->
-  <!--src="https://docs.google.com/document/d/1qDgHNP7BvXtLPh-->
-  <!--9mAkeUZmysOFoWKzAAlBG_rEM6pIk/pub?embedded=true" ></iframe>-->
 </body>
 </html>
