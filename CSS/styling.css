@@ -204,3 +204,11 @@ p.project-description
     margin:0;
     border:0;
 }
+
+@media only screen and (max-width: 768px) {
+  .derpington {
+    height:0 !important;
+    margin:0;
+    border:0;
+  }
+}
