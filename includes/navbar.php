@@ -13,8 +13,8 @@
 
   <div class="collapse navbar-collapse navbar-ex1-collapse">
     <ul class="nav navbar-nav">
-      <li><a href="/pages/Projects.php">Projects</a></li>
-      <li><a href="/pages/Resume.php">Resume</a></li>
+      <li><a class="regular-menu-item" href="/pages/Projects.php">Projects</a></li>
+      <li><a class="regular-menu-item" href="/pages/Resume.php">Resume</a></li>
     </ul>
   </div><!-- /.navbar-collapse -->
 </nav>
