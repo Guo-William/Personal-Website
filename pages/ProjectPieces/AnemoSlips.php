@@ -10,9 +10,8 @@
       </p>
     </div>
     <script>
-      var pad = $('.img-pad').margin-left();
-      $('img-pad').css({
-        'margin-top': pad + 'px'
+      var pad = $('.img-pad').css('margin-left');
+      $('img-pad').css({'margin-top': pad + 'px'
       });
     </script>
   </div>
