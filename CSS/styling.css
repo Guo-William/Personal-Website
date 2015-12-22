@@ -28,51 +28,9 @@
 body {
   background-color: #E0E4CD;
 }
-/*The black-grey strip on the side*/
-ul.toolbar
-{
-  list-style-type: none;
-  position: fixed;
-  height: 100%;
-  left: 0;
-  top: 0;
-  width: 7.7%;
-  /*width: 123px;*/
-  background-color: #191818;
-  margin: 0;
-  padding: 0;
-}
-/*breaks up the words if the space is limited*/
-/*#tab_navigation
-{
-word-wrap:break-word
-}*/
-/*regular menu item*/
-.menu-item
-{
-  padding: 5% 20%;
-}
-/*is a menu item but with a border on the top*/
-.menu-divide
-{
-  padding: 5% 20%;
-  border-top: 1px solid #333;
-}
-/*colors the links for the menu*/
-a.reg-link
-{
-  color: #999;
-  font-size: 110%;
-  text-decoration: none;
-}
-/* when hovering over a link in the menu bar it will
-turn white*/
-a.reg-link:hover
-{
-  color:white;
-}
+
 /*special characteristics for the MENU*/
-.top-menu
+.home-menu
 {
   font-size: 150%;
   font-weight: 300;
@@ -97,29 +55,6 @@ img.head
 {
   /*position:relative;*/
   /*left: 2%;*/
-}
-
-.resume
-{
-  position: relative;
-  width: 45%;
-  height: 970px;
-  left: 20%;
-  border: none;
-}
-
-.resume-dl
-{
-  position: relative;
-  left: 34%;
-  font-size: 150%;
-  text-decoration: none;
-  color: #000000
-}
-
-.resume-dl:hover
-{
-  color:white;
 }
 
 .anemoslips
@@ -147,8 +82,6 @@ p.project-description
 
 
 /* Here lies the navbar CSS */
-
-
 
 
 @media only screen and (min-width: 768px) {
@@ -191,14 +124,7 @@ p.project-description
   }
 }
 
-/*@media only screen and (min-width: 4000px) {*/
-/*  .derpington {*/
-/*    height:100vh !important;*/
-/*    margin:0;*/
-/*    border:0;*/
-/*  }*/
-/*}*/
-
+/*makes the navbar stretch entire page*/
 .derpington {
   height:100vh !important;
   margin:0;
