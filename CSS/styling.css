@@ -64,7 +64,7 @@ img.head
   /*left: 2%;*/
 }
 
-.anemoslips
+.anemoslips-img
 {
   position: relative;
   left:5.4%;
@@ -74,11 +74,11 @@ img.head
 
 .project-blue
 {
-  position: relative;
+  /*position: relative;*/
   background-color: #69D2E7;
-  left: 10%;
-  width: 23%;
-  height: 290px;
+  /*left: 10%;*/
+  /*width: 23%;*/
+  /*height: 290px;*/
 }
 
 p.project-description
