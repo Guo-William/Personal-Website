@@ -17,26 +17,21 @@
   <div class="col-xs-12 col-sm-2 col-md-1 col-lg-1" style="padding:0;margin:0;">
     <?php require('../includes/navbar.php');?>
   </div>
-  <!--<div class="col-xs-12 col-sm-5 col-md-5 col-lg-3 col-off-">-->
-    
-  <!--</div>-->
   
   <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
-  <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
-  <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
-  <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
   
-  <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
-  <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
-  <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
-  <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
-  <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
+  <div class="col-xs-12 col-sm-5 col-md-5 col-lg-3 col-lg-offset-1">
+    <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
+  </div>
+  <div class="col-xs-12 col-sm-5 col-md-5 col-lg-3">
+    <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
+  </div>
+  <div class="col-xs-12 col-sm-5 col-md-5 col-lg-3">
+    <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
+  </div>
+  <div class="col-xs-12 col-sm-5 col-md-5 col-lg-3">
+    <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
+  </div>
   
-  
-  <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
-  <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
-  <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
-  <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
-  <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
 </body>
 </html>
