@@ -69,7 +69,6 @@ img.head
   /*position: relative;*/
   /*left:5.4%;*/
   width: 90%;
-  height:90%;
   /*top: 15px;*/
   display:block;
   margin-left:auto;
@@ -83,6 +82,11 @@ img.head
   /*left: 10%;*/
   /*width: 23%;*/
   /*height: 290px;*/
+}
+
+.project-cap
+{
+  text-align: center;
 }
 
 p.project-description
