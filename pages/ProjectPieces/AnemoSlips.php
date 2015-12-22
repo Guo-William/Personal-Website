@@ -1,5 +1,5 @@
   <div class=project-blue>
-    <div class="container">
+    <div class="container-fluid">
       <img class="anemoslips-img" src="..\images\AnemoSlips.jpg" alt="Innoservice: AnemoSlips">
       <figcaption class="project-cap"><b>Innoservice: AnemoSlips</b> <br></figcaption>
       <p class="project-description">
