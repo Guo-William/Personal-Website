@@ -4,7 +4,7 @@
       <figcaption class="project-cap"><b>Innoservice: AnemoSlips</b> <br></figcaption>
       <p class="project-description">
       
-        A portable and disposable pouch that sanitizes both your hands and phones <br>
+        A disposable pouch that sanitizes both hands and phones <br>
         Conducted research on product background and marketing <br>
         November 2014 - July 2015
       </p>
