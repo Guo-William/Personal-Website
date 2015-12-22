@@ -4,14 +4,13 @@
       <figcaption class="project-cap"><b>Innoservice: AnemoSlips</b> <br></figcaption>
       <p class="project-description">
       
-        A product to clean phones and hands <br>
-        Researched product background and marketing <br>
-        2014-Present
+        A portable and disposable pouch that sanitizes both your hands and phones <br>
+        Conducted research on product background and marketing <br>
+        November 2014 - July 2015
       </p>
     </div>
     <script>
       var wanted_margin = $(".img-pad").css("margin-left");
-      alert(wanted_margin);
       $(".img-pad").css("margin-top", wanted_margin);
     </script>
   </div>
