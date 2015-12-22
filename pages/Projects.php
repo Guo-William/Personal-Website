@@ -18,8 +18,6 @@
     <?php require('../includes/navbar.php');?>
   </div>
   
-  <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
-  
   <div class="col-xs-12 col-sm-5 col-md-5 col-lg-3 col-lg-offset-1">
     <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
   </div>
@@ -29,7 +27,7 @@
   <div class="col-xs-12 col-sm-5 col-md-5 col-lg-3">
     <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
   </div>
-  <div class="col-xs-12 col-sm-5 col-md-5 col-lg-3">
+  <div class="col-xs-12 col-sm-5 col-md-5 col-lg-3 col-lg-offset-1">
     <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
   </div>
   
