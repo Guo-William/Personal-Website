@@ -19,6 +19,8 @@
   </div>
   <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
   <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
+  <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
+  <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
 
 </body>
 </html>
