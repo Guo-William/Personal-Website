@@ -22,8 +22,8 @@
   <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
   <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
   
-  <div class="hidden-xs hidden-sm hidden-md col-lg-1" style="width:auto;"></div>
-  <div class="hidden-xs hidden-sm hidden-md col-lg-1" style="width:auto;"></div>
+  <div class="hidden-xs hidden-sm hidden-md col-lg-1" style="width:100px;"></div>
+  <div class="hidden-xs hidden-sm hidden-md col-lg-1" style="width:100px;"></div>
   <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
   <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
   <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
