@@ -35,7 +35,7 @@ body {
   font-size: 150%;
   font-weight: 300;
   letter-spacing: 0.1em;
-  padding: 10% 15%;
+  /*padding: 10% 15%;*/
   color: #FFFFFF;
   text-transform: uppercase;
   text-decoration: none;
@@ -125,14 +125,14 @@ p.project-description
 }
 
 /*makes the navbar stretch entire page*/
-.derpington {
+.navbar-stretch {
   height:100vh !important;
   margin:0;
   border:0;
 }
 
 @media only screen and (max-width: 768px) {
-  .derpington {
+  .navbar-stretch {
     height:100% !important;
     margin:0;
     border:0;
