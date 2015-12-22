@@ -70,7 +70,8 @@ img.head
   /*left:5.4%;*/
   width: 90%;
   /*top: 15px;*/
-  /*display:block;*/
+  display:block;
+  margin:auto;
   /*margin-left:auto;*/
   /*margin-right:auto;*/
 }
