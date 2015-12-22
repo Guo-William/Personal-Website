@@ -14,13 +14,16 @@
 </head>
 
 <body>
-  <div class="col-xs-12 col-sm-2 col-md-1 col-lg-1" style="padding:0;margin:0;">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-2 col-md-1 col-lg-1" style="padding:0;margin:0;">
     <?php require('../includes/navbar.php');?>
   </div>
-  <div class="row">
-    <div class="col-xs-12 col-sm-5 col-md-5 col-lg-3 col-lg-offset-1">
+  
+  <div class="col-xs-12 col-sm-5 col-md-5 col-lg-3 col-lg-offset-1">
     <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
   </div>
+    </div>
   </div>
   
   
