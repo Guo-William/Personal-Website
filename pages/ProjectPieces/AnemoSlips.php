@@ -1,4 +1,4 @@
-<div class="col-xs-12 col-sm-10 col-md-11 col-lg-11">
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
   <div class=project-blue>
     <img class="anemoslips-img" src="..\images\AnemoSlips.jpg" alt="Innoservice: AnemoSlips">
     <p class="project-description">
