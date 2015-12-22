@@ -12,5 +12,6 @@
     <script>
       var wanted_margin = $(".img-pad").css("margin-left");
       alert(wanted_margin);
+      $(".img-pad").css("margin-top", wanted_margin);
     </script>
   </div>
