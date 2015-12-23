@@ -22,7 +22,7 @@
     
   
   
-    
+    <div class="col-xs-12 col-sm-10 col-md-11 col-lg-11">
     <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
       <b>Education</b>
@@ -52,6 +52,7 @@
       </ul>
     </div>
     </div>
+  </div>
   </div>
   </div>
 </body>
