@@ -23,7 +23,7 @@
   
   
     <div class="col-xs-12 col-sm-10 col-md-11 col-lg-11">
-      <div class="row row-top-buffer">
+      <div class="row row-top-buffer education-color">
         <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
           <b>Education</b>
         </div>
@@ -38,7 +38,7 @@
         </div>
       </div>
       
-      <div class="row row-top-buffer">
+      <div class="row row-top-buffer work-exp-color">
         <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
           <b>Work Experience</b>
         </div>
@@ -57,7 +57,7 @@
         </div>
       </div>
       
-      <div class="row row-top-buffer">
+      <div class="row row-top-buffer work-exp-color">
         <div class="col-xs-11 col-sm-11 col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2">
           Office Assistant at the Asian American Center<br>
           <ul>

@@ -161,5 +161,15 @@ p.project-description
 
 .row-top-buffer
 {
-  margin-top:3%;
+  margin-top:2%;
+}
+
+.education-color
+{
+  background-color: #FA6900;
+}
+
+.work-exp-color
+{
+  background-color: #69D2E7;
 }
