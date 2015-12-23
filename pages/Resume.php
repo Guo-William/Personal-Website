@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <script src="jquery-2.1.4.js"></script>
+  <script src="../jquery-2.1.4.js"></script>
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <!-- jQuery library -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -44,7 +44,7 @@
         </div>
       
         <div class="col-xs-11 col-sm-11 col-md-8 col-lg-8">
-          Fundamentals of Computer Science I Tutor
+          Fundamentals of Computer Science I Tutor<br>
           <b>Northeastern University</b>
           <ul>
             <li>Place Hold</li>
@@ -53,6 +53,18 @@
           </ul>
         </div>
       </div>
+      
+      <div class="row">
+        <div class="col-xs-11 col-sm-11 col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2">
+          Office Assistant at the Asian American Center<br>
+          <ul>
+            <li>Place Hold</li>
+            <li>Place Hold</li>
+            <li>Place Hold</li>
+          </ul>
+        </div>
+      </div>
+      
     </div>
     </div>
   </div>
