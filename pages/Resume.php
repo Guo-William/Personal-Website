@@ -14,10 +14,14 @@
 </head>
 
 <body>
-  <div class="col-xs-12 col-sm-2 col-md-1 col-lg-1" style="padding:0;margin:0;">
-    <?php require('../includes/navbar.php');?>
-  </div>
-  <div class="container">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12 col-sm-2 col-md-1 col-lg-1" style="padding:0;margin:0;">
+        <?php require('../includes/navbar.php');?>
+      </div>
+    
+  
+  
     
     <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
@@ -32,7 +36,7 @@
     <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2">
       2014 - Present
     </div>
-    </div>
+    
         
     <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
       <b>Work Experience</b>
@@ -47,6 +51,8 @@
         <li>Place Hold</li>
       </ul>
     </div>
+    </div>
+  </div>
   </div>
 </body>
 </html>
