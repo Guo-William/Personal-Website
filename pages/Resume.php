@@ -18,6 +18,9 @@
     <?php require('../includes/navbar.php');?>
   </div>
   <div class="container">
+    
+    <div class="container">
+    
     <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
       <b>Education</b>
     </div>
@@ -29,6 +32,7 @@
       
     <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2">
       2014 - Present
+    </div>
     </div>
         
     <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
