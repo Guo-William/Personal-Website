@@ -38,7 +38,7 @@
         </div>
       </div>
       
-      <div class="row">
+      <div class="row row-top-buffer">
         <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
           <b>Work Experience</b>
         </div>
@@ -57,7 +57,7 @@
         </div>
       </div>
       
-      <div class="row">
+      <div class="row row-top-buffer">
         <div class="col-xs-11 col-sm-11 col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2">
           Office Assistant at the Asian American Center<br>
           <ul>

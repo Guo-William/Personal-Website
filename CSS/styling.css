@@ -156,3 +156,10 @@ p.project-description
     z-index:100;
   }
 }
+
+/* mainly for styling on the resume page */
+
+.row-top-buffer
+{
+  margin-top:5%;
+}
