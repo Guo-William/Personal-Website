@@ -52,6 +52,9 @@
             <li>Place Hold</li>
           </ul>
         </div>
+        <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2">
+          Spring & Fall 2015
+        </div>
       </div>
       
       <div class="row">
@@ -62,6 +65,9 @@
             <li>Place Hold</li>
             <li>Place Hold</li>
           </ul>
+        </div>
+        <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2">
+          Spring & Fall 2015
         </div>
       </div>
       
