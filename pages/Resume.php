@@ -8,7 +8,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <!-- Latest compiled JavaScript -->
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-  <script src="jquery-2.1.4.js"></script>
+  <script src="../jquery-2.1.4.js"></script>
   <!--<script type="text/javascript" src="../includes.js"></script>-->
   <link rel="stylesheet" href="../CSS/styling.css">
 </head>
@@ -20,17 +20,15 @@
   <div class="container">
     <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
       <b>Education</b>
+    </div>
+    <div class="col-xs-11 col-sm-11 col-md-8 col-lg-8">
+      Northeastern Univerity, Boston, MA<br>
+      College of Computer and Information Science<br>
+      Candidate for Bachelors of Science in Computer Science
+    </div>
       
-      <div class="col-xs-11 col-sm-11 col-md-8 col-lg-8">
-        Northeastern Univerity, Boston, MA<br>
-        College of Computer and Information Science<br>
-        Candidate for Bachelors of Science in Computer Science
-      </div>
-      
-      <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2">
-        2014 - Present
-      </div>
-      
+    <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2">
+      2014 - Present
     </div>
         
     <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
