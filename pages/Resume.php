@@ -33,7 +33,7 @@
           Candidate for Bachelors of Science in Computer Science
         </div>
       
-        <div class="resume-dates col-xs-1 col-sm-1 col-md-2 col-lg-2">
+        <div class="resume-dates col-xs-1 col-sm-1 col-md-1 col-lg-1">
           2014 - Present
         </div>
       </div>
@@ -52,7 +52,7 @@
             <li>Place Hold</li>
           </ul>
         </div>
-        <div class="resume-dates col-xs-1 col-sm-1 col-md-2 col-lg-2">
+        <div class="resume-dates col-xs-1 col-sm-1 col-md-1 col-lg-1">
           Spring & Fall 2015
         </div>
       </div>
@@ -60,14 +60,45 @@
       <div class="row row-top-buffer work-exp-color">
         <div class="col-xs-11 col-sm-11 col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2">
           Office Assistant at the Asian American Center<br>
+          <b>Northeastern University</b>
           <ul>
             <li>Place Hold</li>
             <li>Place Hold</li>
             <li>Place Hold</li>
           </ul>
         </div>
-        <div class="resume-dates col-xs-1 col-sm-1 col-md-2 col-lg-2">
+        <div class="resume-dates col-xs-1 col-sm-1 col-md-1 col-lg-1">
           Spring & Fall 2015
+        </div>
+      </div>
+      
+      <div class="row row-top-buffer work-exp-color">
+        <div class="col-xs-11 col-sm-11 col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2">
+          Bowne House Intern<br>
+          <b>THe Bowne House Historical Society, Flushing, NY</b>
+          <ul>
+            <li>Place Hold</li>
+            <li>Place Hold</li>
+            <li>Place Hold</li>
+          </ul>
+        </div>
+        <div class="resume-dates col-xs-1 col-sm-1 col-md-1 col-lg-1">
+          Summer 2015
+        </div>
+      </div>
+      
+      <div class="row row-top-buffer work-exp-color">
+        <div class="col-xs-11 col-sm-11 col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2">
+          Innoservice Team Member/Researcher<br>
+          <b>Northeastern University</b>
+          <ul>
+            <li>Place Hold</li>
+            <li>Place Hold</li>
+            <li>Place Hold</li>
+          </ul>
+        </div>
+        <div class="resume-dates col-xs-1 col-sm-1 col-md-1 col-lg-1">
+          Fall 2014 & Spring 2015
         </div>
       </div>
       
