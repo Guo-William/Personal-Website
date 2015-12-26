@@ -173,3 +173,14 @@ p.project-description
 {
   background-color: #69D2E7;
 }
+
+.resume-title
+{
+  font-size: 150%;
+  float: right;
+}
+
+.resume-dates
+{
+  float: right;
+}

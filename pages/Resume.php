@@ -25,7 +25,7 @@
     <div class="col-xs-12 col-sm-10 col-md-11 col-lg-11">
       <div class="row row-top-buffer education-color">
         <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
-          <b>Education</b>
+          <b class="resume-title">Education</b>
         </div>
         <div class="col-xs-11 col-sm-11 col-md-8 col-lg-8">
           Northeastern Univerity, Boston, MA<br>
@@ -33,14 +33,14 @@
           Candidate for Bachelors of Science in Computer Science
         </div>
       
-        <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2">
+        <div class="resume-dates col-xs-1 col-sm-1 col-md-2 col-lg-2">
           2014 - Present
         </div>
       </div>
       
       <div class="row row-top-buffer work-exp-color">
         <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
-          <b>Work Experience</b>
+          <b class="resume-title">Work Experience</b>
         </div>
       
         <div class="col-xs-11 col-sm-11 col-md-8 col-lg-8">
@@ -52,7 +52,7 @@
             <li>Place Hold</li>
           </ul>
         </div>
-        <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2">
+        <div class="resume-dates col-xs-1 col-sm-1 col-md-2 col-lg-2">
           Spring & Fall 2015
         </div>
       </div>
@@ -66,7 +66,7 @@
             <li>Place Hold</li>
           </ul>
         </div>
-        <div class="col-xs-1 col-sm-1 col-md-2 col-lg-2">
+        <div class="resume-dates col-xs-1 col-sm-1 col-md-2 col-lg-2">
           Spring & Fall 2015
         </div>
       </div>
