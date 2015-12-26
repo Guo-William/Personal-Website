@@ -27,7 +27,7 @@
         <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
           <b class="resume-title">Education</b>
         </div>
-        <div class="col-xs-10 col-sm-9 col-md-8 col-lg-8 col-md-offset-1 col-lg-offset-1">
+        <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-1 col-lg-offset-1">
           Northeastern Univerity, Boston, MA<br>
           College of Computer and Information Science<br>
           Candidate for Bachelors of Science in Computer Science
@@ -43,7 +43,7 @@
           <b class="resume-title">Work Experience</b>
         </div>
       
-        <div class="col-xs-10 col-sm-9 col-md-8 col-lg-8 col-md-offset-1 col-lg-offset-1">
+        <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-1 col-lg-offset-1">
           Fundamentals of Computer Science I Tutor<br>
           <b>Northeastern University</b>
           <ul>
@@ -59,7 +59,7 @@
       </div>
       
       <div class="row row-top-buffer work-exp-color">
-        <div class="col-xs-10 col-sm-9 col-md-8 col-lg-8 col-md-offset-3 col-lg-offset-3">
+        <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-3 col-lg-offset-3">
           Office Assistant at the Asian American Center<br>
           <b>Northeastern University</b>
           <ul>
@@ -74,7 +74,7 @@
       </div>
       
       <div class="row row-top-buffer work-exp-color">
-        <div class="col-xs-10 col-sm-9 col-md-8 col-lg-8 col-md-offset-3 col-lg-offset-3">
+        <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-3 col-lg-offset-3">
           Bowne House Intern<br>
           <b>THe Bowne House Historical Society, Flushing, NY</b>
           <ul>
@@ -89,7 +89,7 @@
       </div>
       
       <div class="row row-top-buffer work-exp-color">
-        <div class="col-xs-10 col-sm-9 col-md-8 col-lg-8 col-md-offset-3 col-lg-offset-3">
+        <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-3 col-lg-offset-3">
           Innoservice Team Member/Researcher<br>
           <b>Northeastern University</b>
           <ul>
