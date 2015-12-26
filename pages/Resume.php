@@ -27,13 +27,13 @@
         <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
           <b class="resume-title">Education</b>
         </div>
-        <div class="col-xs-11 col-sm-9 col-md-8 col-lg-8">
+        <div class="col-xs-10 col-sm-9 col-md-8 col-lg-8">
           Northeastern Univerity, Boston, MA<br>
           College of Computer and Information Science<br>
           Candidate for Bachelors of Science in Computer Science
         </div>
       
-        <div class="col-xs-12 col-sm-1 col-md-1 col-lg-1">
+        <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
           <span class="resume-dates">2014 - Present</span>
         </div>
       </div>
@@ -43,7 +43,7 @@
           <b class="resume-title">Work Experience</b>
         </div>
       
-        <div class="col-xs-11 col-sm-9 col-md-8 col-lg-8">
+        <div class="col-xs-10 col-sm-9 col-md-8 col-lg-8">
           Fundamentals of Computer Science I Tutor<br>
           <b>Northeastern University</b>
           <ul>
@@ -52,13 +52,13 @@
             <li>Place Hold</li>
           </ul>
         </div>
-        <div class="col-xs-12 col-sm-1 col-md-1 col-lg-1">
+        <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
           <span class="resume-dates">Spring & Fall 2015</span>
         </div>
       </div>
       
       <div class="row row-top-buffer work-exp-color">
-        <div class="col-xs-11 col-sm-9 col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2">
+        <div class="col-xs-10 col-sm-9 col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2">
           Office Assistant at the Asian American Center<br>
           <b>Northeastern University</b>
           <ul>
@@ -67,13 +67,13 @@
             <li>Place Hold</li>
           </ul>
         </div>
-        <div class="col-xs-12 col-sm-1 col-md-1 col-lg-1">
+        <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
           <span class="resume-dates">Spring & Fall 2015</span>
         </div>
       </div>
       
       <div class="row row-top-buffer work-exp-color">
-        <div class="col-xs-11 col-sm-9 col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2">
+        <div class="col-xs-10 col-sm-9 col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2">
           Bowne House Intern<br>
           <b>THe Bowne House Historical Society, Flushing, NY</b>
           <ul>
@@ -82,13 +82,13 @@
             <li>Place Hold</li>
           </ul>
         </div>
-        <div class="col-xs-12 col-sm-1 col-md-1 col-lg-1">
+        <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
           <span class="resume-dates">Summer 2015</span>
         </div>
       </div>
       
       <div class="row row-top-buffer work-exp-color">
-        <div class="col-xs-11 col-sm-9 col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2">
+        <div class="col-xs-10 col-sm-9 col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2">
           Innoservice Team Member/Researcher<br>
           <b>Northeastern University</b>
           <ul>
@@ -97,7 +97,7 @@
             <li>Place Hold</li>
           </ul>
         </div>
-        <div class="col-xs-12 col-sm-1 col-md-1 col-lg-1">
+        <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
           <span class="resume-dates">Fall 2014 & Spring 2015</span>
         </div>
       </div>
