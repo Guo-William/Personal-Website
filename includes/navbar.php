@@ -18,3 +18,8 @@
     </ul>
   </div><!-- /.navbar-collapse -->
 </nav>
+
+<script>
+  var wanted_width = $(".img-pad").css("margin-left");
+  $(".img-pad").css("margin-top", wanted_margin);
+</script>
