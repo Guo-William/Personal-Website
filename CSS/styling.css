@@ -143,16 +143,16 @@ p.project-description
 
 /*makes the navbar stretch entire page*/
 .navbar-stretch {
+  
   height:100vh !important;
   margin:0;
   border:0;
+  position: fixed;
+  top: 0;
 }
 
 @media only screen and (max-width: 768px) {
   .navbar-stretch {
-    position: fixed;
-    top: 0;
-    
     height:100% !important;
     margin:0;
     border:0;
