@@ -25,7 +25,7 @@
   alert(42);
   var wanted_width = $(".navbar-stretch").parent().width();
   alert(wanted_width);
-  $(".navbar-stretch").width($(".navbar-stretch").parent().width());
+  $(".navbar-stretch").width($(".navbar-stretch").parent().width()+'px');
   
   
 </script>
