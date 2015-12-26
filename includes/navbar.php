@@ -22,10 +22,10 @@
 <script>
   // var wanted_width = $(".img-pad").css("margin-left");
   // $(".img-pad").css("margin-top", wanted_margin);
-  alert(42);
+  var wanted_width = $(".navbar-stretch").parent().width();
+  $(".navbar-stretch").width(wanted_width);
   $(window).resize(function(){
     var wanted_width = $(".navbar-stretch").parent().width();
-    alert(wanted_width);
     $(".navbar-stretch").width(wanted_width);
   });
 </script>
