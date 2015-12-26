@@ -36,6 +36,7 @@
         <div class="resume-dates col-xs-1 col-sm-1 col-md-1 col-lg-1">
           2014 - Present
         </div>
+        <div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
       </div>
       
       <div class="row row-top-buffer work-exp-color">
@@ -55,6 +56,7 @@
         <div class="resume-dates col-xs-1 col-sm-1 col-md-1 col-lg-1">
           Spring & Fall 2015
         </div>
+        <div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
       </div>
       
       <div class="row row-top-buffer work-exp-color">
@@ -70,6 +72,7 @@
         <div class="resume-dates col-xs-1 col-sm-1 col-md-1 col-lg-1">
           Spring & Fall 2015
         </div>
+        <div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
       </div>
       
       <div class="row row-top-buffer work-exp-color">
@@ -85,6 +88,7 @@
         <div class="resume-dates col-xs-1 col-sm-1 col-md-1 col-lg-1">
           Summer 2015
         </div>
+        <div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
       </div>
       
       <div class="row row-top-buffer work-exp-color">
@@ -100,6 +104,7 @@
         <div class="resume-dates col-xs-1 col-sm-1 col-md-1 col-lg-1">
           Fall 2014 & Spring 2015
         </div>
+        <div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
       </div>
       
     </div>
