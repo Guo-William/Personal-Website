@@ -53,7 +53,7 @@
             <li>Place Hold</li>
           </ul>
         </div>
-        <div class="resume-dates col-xs-12 col-sm-12 col-md-1 col-lg-1">
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
           <span class="resume-dates">Spring & Fall 2015</span>
         </div>
         <div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
