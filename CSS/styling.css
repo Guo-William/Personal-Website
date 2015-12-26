@@ -150,12 +150,13 @@ p.project-description
 
 @media only screen and (max-width: 768px) {
   .navbar-stretch {
+    position: fixed;
+    top: 0;
+    
     height:100% !important;
     margin:0;
     border:0;
     z-index:100;
-    position: fixed;
-    top: 0;
   }
 }
 
