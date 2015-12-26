@@ -33,10 +33,9 @@
           Candidate for Bachelors of Science in Computer Science
         </div>
       
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
+        <div class="col-xs-12 col-sm-1 col-md-1 col-lg-1">
           <span class="resume-dates">2014 - Present</span>
         </div>
-        <div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
       </div>
       
       <div class="row row-top-buffer work-exp-color">
@@ -53,10 +52,9 @@
             <li>Place Hold</li>
           </ul>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
+        <div class="col-xs-12 col-sm-1 col-md-1 col-lg-1">
           <span class="resume-dates">Spring & Fall 2015</span>
         </div>
-        <div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
       </div>
       
       <div class="row row-top-buffer work-exp-color">
@@ -69,10 +67,9 @@
             <li>Place Hold</li>
           </ul>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
+        <div class="col-xs-12 col-sm-1 col-md-1 col-lg-1">
           <span class="resume-dates">Spring & Fall 2015</span>
         </div>
-        <div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
       </div>
       
       <div class="row row-top-buffer work-exp-color">
@@ -85,7 +82,7 @@
             <li>Place Hold</li>
           </ul>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
+        <div class="col-xs-12 col-sm-1 col-md-1 col-lg-1">
           <span class="resume-dates">Summer 2015</span>
         </div>
       </div>
@@ -100,7 +97,7 @@
             <li>Place Hold</li>
           </ul>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
+        <div class="col-xs-12 col-sm-1 col-md-1 col-lg-1">
           <span class="resume-dates">Fall 2014 & Spring 2015</span>
         </div>
       </div>
