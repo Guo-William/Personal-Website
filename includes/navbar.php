@@ -23,7 +23,7 @@
   // var wanted_width = $(".img-pad").css("margin-left");
   // $(".img-pad").css("margin-top", wanted_margin);
   alert(42);
-  var wanted_width = $(".navbar-stretch").parent().width());
+  var wanted_width = $(".navbar-stretch").parent().width();
   alert(wanted_width);
   $(".navbar-stretch").width($(".navbar-stretch").parent().width());
   
