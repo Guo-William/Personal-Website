@@ -147,8 +147,9 @@ p.project-description
   height:100vh !important;
   margin:0;
   border:0;
-  /*position: fixed;*/
-  /*top: 0;*/
+  position: absolute;
+  top: 0;
+  width: inherit;
 }
 
 @media only screen and (max-width: 768px) {
