@@ -104,7 +104,7 @@
         <div class="resume-dates col-xs-1 col-sm-1 col-md-1 col-lg-1">
           Fall 2014 & Spring 2015
         </div>
-        <div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
+        <div class="hidden-xs hidden-sm col-md-1 col-lg-1 col-md-offset-1 col-lg-offset-1"></div>
       </div>
       
     </div>
