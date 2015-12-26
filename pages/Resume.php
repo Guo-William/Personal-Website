@@ -47,9 +47,10 @@
           Fundamentals of Computer Science I Tutor<br>
           <b>Northeastern University</b>
           <ul>
-            <li>Place Hold</li>
-            <li>Place Hold</li>
-            <li>Place Hold</li>
+            <li>Aided students in grasping the basics of programming in DrRacket</li>
+            <li>Tutored up to ten students, one on one during weekly office hours</li>
+            <li>Assisted in the administration of lab sessions</li>
+            <li>Assessed weekly homework assignments</li>
           </ul>
         </div>
         <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
@@ -62,9 +63,9 @@
           Office Assistant at the Asian American Center<br>
           <b>Northeastern University</b>
           <ul>
-            <li>Place Hold</li>
-            <li>Place Hold</li>
-            <li>Place Hold</li>
+            <li>Oversaw and assisted in large events</li>
+            <li>Managed usage of rooms in the center</li>
+            <li>Performed a wide variet of clerical duties</li>
           </ul>
         </div>
         <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
@@ -77,9 +78,9 @@
           Bowne House Intern<br>
           <b>THe Bowne House Historical Society, Flushing, NY</b>
           <ul>
-            <li>Place Hold</li>
-            <li>Place Hold</li>
-            <li>Place Hold</li>
+            <li>Designed a website for the Bowne House that fit employer's specifications</li>
+            <li>Adapted the website to be mobile friendlt by using Bootstrap 3</li>
+            <li>Utilized version control to keep track of multiple designs</li>
           </ul>
         </div>
         <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
@@ -92,9 +93,10 @@
           Innoservice Team Member/Researcher<br>
           <b>Northeastern University</b>
           <ul>
-            <li>Place Hold</li>
-            <li>Place Hold</li>
-            <li>Place Hold</li>
+            <li>Collaborated with teammates to design a product to meet digitally connected users' needs</li>
+            <li>Performed a cost analysis of designed product</li>
+            <li>Analyzed similar products already on market</li>
+            <li>Researched product background</li>
           </ul>
         </div>
         <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
