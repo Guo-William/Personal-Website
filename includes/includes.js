@@ -12,8 +12,8 @@ navigation[7]   = '</div>';
 
 function show(i)
 {
-    for (var x in i)
-    {
-        document.write(i[x]+'\n');
-    }
+  for (var x in i)
+  {
+    document.write(i[x]+'\n');
+  }
 }

@@ -20,12 +20,12 @@
 </nav>
 
 <script>
-  // var wanted_width = $(".img-pad").css("margin-left");
-  // $(".img-pad").css("margin-top", wanted_margin);
+// var wanted_width = $(".img-pad").css("margin-left");
+// $(".img-pad").css("margin-top", wanted_margin);
+var wanted_width = $(".navbar-stretch").parent().width();
+$(".navbar-stretch").width(wanted_width);
+$(window).resize(function(){
   var wanted_width = $(".navbar-stretch").parent().width();
   $(".navbar-stretch").width(wanted_width);
-  $(window).resize(function(){
-    var wanted_width = $(".navbar-stretch").parent().width();
-    $(".navbar-stretch").width(wanted_width);
-  });
+});
 </script>

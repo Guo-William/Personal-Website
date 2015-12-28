@@ -8,8 +8,8 @@
   <meta name="description" content="William Guo's personal website">
   <meta name="keywords" content="William Guo, Guo, William">
   <meta name="author" content="William Guo">
-  
-  
+
+
   <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <!-- jQuery library -->

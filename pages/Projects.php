@@ -22,8 +22,8 @@
       </div>
     </div>
   </div>
-  
-  
+
+
   <!--this is for when it starts a row-->
   <!--<div class="col-xs-12 col-sm-5 col-md-5 col-lg-3 col-lg-offset-1">-->
   <!--  <?php require('../pages/ProjectPieces/AnemoSlips.php');?>-->
@@ -32,7 +32,7 @@
   <!--<div class="col-xs-12 col-sm-5 col-md-5 col-lg-3">-->
   <!--  //<?php require('../pages/ProjectPieces/AnemoSlips.php');?>-->
   <!--</div>-->
-  
-  
+
+
 </body>
 </html>
