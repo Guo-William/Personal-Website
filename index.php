@@ -41,16 +41,15 @@
                 Fundamentals of Computer Science I Tutor at Northeastern University
             </p>
         </div>
-
-    </div>
-    <div style="clear: both"></div>
-    <footer class="footer">
-        <div class="container">
-            <p class="text-muted">Contacts should go here</p>
-            <i class="fa fa-github fa-3x"></i>
-            <i class="fa fa-linkedin fa-3x"></i>
+        <div class="row">
+            <div class="col-lg-12">
+                <p class="text-muted">Contacts should go here</p>
+                <i class="fa fa-github fa-3x"></i>
+                <i class="fa fa-linkedin fa-3x"></i>
+            </div>
         </div>
-    </footer>
+    </div>
+
 </body>
 
 </html>
