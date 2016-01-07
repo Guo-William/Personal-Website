@@ -42,12 +42,16 @@
             </p>
         </div>
         <div class="col-lg-12" style="position: absolute; bottom:0;">
-            <p class="text-muted" style="margin-left: auto;margin-right: auto; width: 6em">Contacts should go here</p>
+            <p class="text-muted" style="margin-left: auto;margin-right: auto; width: 6em">
+                Contact
+                Send me an email at:
+                <a href="mailto:william.wenzhou.guo@gmail.com">william.wenzhou.guo@gmail.com</a>
+            </p>
             <div class="col-lg-5"></div>
             <div class="col-lg-2">
                 <div class="col-lg-5"></div>
-                <i class="fa fa-github fa-3x" style="display: block; margin-left: auto;margin-right: auto;"></i>
-                <i class="fa fa-linkedin fa-3x" style="display: block; margin-left: auto;margin-right: auto;"></i>
+                <i class="fa fa-github fa-3x" style=""></i>
+                <i class="fa fa-linkedin fa-3x" style=""></i>
                 <div class="col-lg-5"></div>
             </div>
             <div class="col-lg-5"></div>
