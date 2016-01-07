@@ -42,10 +42,10 @@
             </p>
         </div>
         <div class="col-lg-12" style="position: absolute; bottom:0;">
-            <div style="display: block;margin-left: auto;margin-right: auto">
-                <p class="text-muted">Contacts should go here</p>
-                <i class="fa fa-github fa-3x"></i>
-                <i class="fa fa-linkedin fa-3x"></i>
+            <div>
+                <p class="text-muted" style="margin-left: auto;margin-right: auto; width: 6em">Contacts should go here</p>
+                <i class="fa fa-github fa-3x" style="display: block; margin-left: auto;margin-right: auto;"></i>
+                <i class="fa fa-linkedin fa-3x" style="display: block; margin-left: auto;margin-right: auto;"></i>
             </div>
         </div>
     </div>
