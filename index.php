@@ -20,8 +20,8 @@
     <!--<script type="text/javascript" src="includes/includes.js"></script> -->
 
     <link rel="stylesheet" href="CSS/styling.css">
-    <link rel="stylesheet" href="font-awesome.min.css">
-    <link rel="stylesheet" href="font-awesome.css">
+    <link rel="stylesheet" href="CSS/font-awesome.min.css">
+    <link rel="stylesheet" href="CSS/font-awesome.css">
 </head>
 
 <body>
