@@ -42,11 +42,13 @@
             </p>
         </div>
         <div class="col-lg-12" style="position: absolute; bottom:0;">
-            <div>
-                <p class="text-muted" style="margin-left: auto;margin-right: auto; width: 6em">Contacts should go here</p>
+            <p class="text-muted" style="margin-left: auto;margin-right: auto; width: 6em">Contacts should go here</p>
+            <div class="col-lg-5"></div>
+            <div class="col-lg-2">
                 <i class="fa fa-github fa-3x" style="display: block; margin-left: auto;margin-right: auto;"></i>
                 <i class="fa fa-linkedin fa-3x" style="display: block; margin-left: auto;margin-right: auto;"></i>
             </div>
+            <div class="col-lg-5"></div>
         </div>
     </div>
 
