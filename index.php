@@ -25,7 +25,7 @@
 </head>
 
 <body>
-    <div>
+    <div class="container">
         <div class="col-xs-12 col-sm-2 col-md-1 col-lg-1" style="padding:0;margin:0;">
             <?php require('includes/navbar.php');?>
         </div>
