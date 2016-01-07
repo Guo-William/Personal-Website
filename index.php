@@ -42,16 +42,18 @@
             </p>
         </div>
         <div class="col-lg-12" style="position: absolute; bottom:0;">
-            <p class="text-muted" style="margin-left: auto;margin-right: auto; width: 6em">
+            <p class="text-muted" style="margin-left: auto;margin-right: auto;">
                 Contact
+            </p>
+            <p class="text-muted" style="margin-left: auto;margin-right: auto;">
                 Send me an email at:
                 <a href="mailto:william.wenzhou.guo@gmail.com">william.wenzhou.guo@gmail.com</a>
             </p>
             <div class="col-lg-5"></div>
             <div class="col-lg-2">
                 <div class="col-lg-5"></div>
-                <i class="fa fa-github fa-3x" style=""></i>
-                <i class="fa fa-linkedin fa-3x" style=""></i>
+                <a href="https://github.com/Guo-William" target="_blank"><i class="fa fa-github fa-3x"></i></a>
+                <a href="https://www.linkedin.com/in/williamwenzhouguo" target="_blank"><i class="fa fa-linkedin fa-3x"></i></a>
                 <div class="col-lg-5"></div>
             </div>
             <div class="col-lg-5"></div>
