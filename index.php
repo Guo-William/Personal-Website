@@ -43,7 +43,7 @@
         </div>
 
     </div>
-
+    <div style="clear: both"></div>
     <footer class="footer">
         <div class="container">
             <p class="text-muted">Contacts should go here</p>
