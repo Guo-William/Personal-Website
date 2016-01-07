@@ -41,10 +41,12 @@
                 Fundamentals of Computer Science I Tutor at Northeastern University
             </p>
         </div>
-        <div class="col-lg-12" style="position: absolute; bottom:0;display: block;margin-left: auto;margin-right: auto">
-            <p class="text-muted">Contacts should go here</p>
-            <i class="fa fa-github fa-3x"></i>
-            <i class="fa fa-linkedin fa-3x"></i>
+        <div class="col-lg-12" style="position: absolute; bottom:0;">
+            <div style="display: block;margin-left: auto;margin-right: auto">
+                <p class="text-muted">Contacts should go here</p>
+                <i class="fa fa-github fa-3x"></i>
+                <i class="fa fa-linkedin fa-3x"></i>
+            </div>
         </div>
     </div>
 
