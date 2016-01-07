@@ -42,10 +42,8 @@
             </p>
         </div>
         <div class="col-lg-12" style="position: absolute; bottom:0;">
-            <p class="text-muted" style="margin-left: auto;margin-right: auto;">
-                Contact
-            </p>
-            <p class="text-muted" style="margin-left: auto;margin-right: auto;">
+            <p class="text-muted" style="margin-left: auto;margin-right: auto; text-align:center;">
+                <span style="font-size: 200%">Contact</span><br>
                 Send me an email at:
                 <a href="mailto:william.wenzhou.guo@gmail.com">william.wenzhou.guo@gmail.com</a>
             </p>
