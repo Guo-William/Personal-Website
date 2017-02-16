@@ -41,6 +41,41 @@
                 Fundamentals of Computer Science I Tutor at Northeastern University
             </p>
         </div>
+
+        <div class="col-xs-12 col-sm-2 col-md-12 col-lg-12">
+            <br><br>
+            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 col-md-offset-1 col-lg-offset-1" >
+                <b class="resume-title" style="color: #333">Updates</b>
+            </div>
+
+            <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-1 col-lg-offset-1">
+                <p>
+                    <b>Jan 2017</b><br>
+                    Completed my first co-op which was at PowerAdvocate. <br>
+                    Currently on the search for my second co-op for July - December 2017
+                </p>
+                <br><br>
+            </div>
+          
+        </div>
+
+        <div class="col-xs-12 col-sm-2 col-md-12 col-lg-12" style="background-color: #181818;">
+            <div class="col-xs-12 col-sm-12 col-md-2 col-lg- col-md-offset-1 col-lg-offset-1" >
+                <br>
+                <b class="resume-title" style="color: #a1b56c">About</b>
+            </div>
+
+            <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-1 col-lg-offset-1">
+                <br>
+                <p style="color:#777;">
+                    I'm a Junior at Northeastern University majoring in Computer Science.
+                    Looking for software development co-ops. <br> I have an interest in operations, back end, and front end development. Starting to gain an interest in network securities too.
+                </p>
+                <br><br>
+            </div>
+        </div>
+
+
         <div class="col-lg-12" style="position: absolute; bottom:0;">
             <p class="text-muted" style="margin-left: auto;margin-right: auto; text-align:center;">
                 <span style="font-size: 200%">Contact</span><br>
