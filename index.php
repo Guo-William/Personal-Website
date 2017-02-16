@@ -29,14 +29,15 @@
         <div class="col-xs-12 col-sm-2 col-md-1 col-lg-1" style="padding:0;margin:0;">
             <?php require('includes/navbar.php');?>
         </div>
+        <div class="col-xs-12 col-sm-3 col-md-1 col-lg-1"></div>
         <div class="head-shot col-xs-12 col-sm-3 col-md-2 col-lg-2">
             <img class="center-block" src="images\headshot.jpg" alt="Headshot"
             style="width:96%; height:96%;">
         </div>
-        <div class="theTop col-xs-12 col-sm-7 col-md-9 col-lg-9">
+        <div class="theTop col-xs-12 col-sm-4 col-md-7 col-lg-7">
             <p class="name">
                 <br>
-                Undergraduate At Northeastern University, Boston, MA<br>
+                Undergraduate at Northeastern University, Boston, MA<br>
                 Candidate for Bachelors of Science in Computer Science<br>
             </p>
         </div>
