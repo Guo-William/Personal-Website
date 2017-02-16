@@ -54,7 +54,7 @@
                     Completed my first co-op which was at PowerAdvocate. <br>
                     Currently on the search for my second co-op for July - December 2017
                 </p>
-                <br><br>
+                <br>
             </div>
           
         </div>
@@ -69,7 +69,7 @@
                 <br>
                 <p style="color:#777;">
                     I'm a Junior at Northeastern University majoring in Computer Science.
-                    Looking for software development co-ops. <br> I have an interest in operations, back end, and front end development. Starting to gain an interest in network securities too.
+                    Looking for software development co-ops. <br> I have an interest in operations, back end, and front end development. I am also starting to gain an interest in network securities too.
                 </p>
                 <br><br>
             </div>

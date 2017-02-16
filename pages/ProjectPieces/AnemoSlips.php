@@ -3,7 +3,7 @@
     <img class="anemoslips-img img-pad" src="..\images\AnemoSlips.jpg" alt="Innoservice: AnemoSlips">
     <figcaption class="project-cap"><b>Innoservice: AnemoSlips</b> <br></figcaption>
     <p class="project-description">
-
+      (Pronounced a-neh-mo-slips)
       A disposable pouch that sanitizes hands and phones <br>
       Researched product background and marketing <br>
       November 2014 - July 2015
