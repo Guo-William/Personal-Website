@@ -25,10 +25,10 @@
       <div class="col-xs-12 col-sm-10 col-md-11 col-lg-11">
         <div class="row row-top-buffer education-color">
           <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
-            <b class="resume-title">Education</b>
+            <b class="resume-title" style="color: #a1b56c">Education</b>
           </div>
           <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-1 col-lg-offset-1">
-            Northeastern Univerity, Boston, MA<br>
+            <b>Northeastern Univerity, Boston, MA</b><br>
             College of Computer and Information Science<br>
             Candidate for Bachelors of Science in Computer Science
           </div>
@@ -39,11 +39,11 @@
         </div>
         <div class="row row-top-buffer work-exp-color">
           <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
-            <b class="resume-title">Work Experience</b>
+            <b class="resume-title" style="color: #a1b56c">Work Experience</b>
           </div>
           <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-1 col-lg-offset-1">
-            Full Stack Web Developer Co-op<br>
-            <b>PowerAdvocate, Boston, MA</b>
+            <b>PowerAdvocate, Boston, MA</b><br>
+            <i>Full Stack Web Developer Co-op</i><br>
             <ul>
               <li>Built front end applications using ExtJS and JQuery.</li>
               <li>Constructed N-Tier backend system with Spring MVC, Hibernate and Oracle database.</li>
