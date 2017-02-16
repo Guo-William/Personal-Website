@@ -59,7 +59,7 @@
           
         </div>
 
-        <div class="col-xs-12 col-sm-2 col-md-12 col-lg-12" style="background-color: #181818;">
+        <div class="col-xs-12 col-sm-2 col-md-12 col-lg-12" style="background-color: #181818; z-index: -10">
             <div class="col-xs-12 col-sm-12 col-md-2 col-lg- col-md-offset-1 col-lg-offset-1" >
                 <br>
                 <b class="resume-title" style="color: #a1b56c">About</b>
