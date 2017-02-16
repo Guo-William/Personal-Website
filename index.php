@@ -37,7 +37,7 @@
         </div>
         <div class="theTop col-xs-12 col-sm-4 col-md-7 col-lg-7">
             <p class="name">
-                <br>
+                <span style="font-size: 250%; color: #a1b56c;">William Guo</span><br>
                 Undergraduate at Northeastern University, Boston, MA<br>
                 Candidate for Bachelors of Science in Computer Science<br>
             </p>

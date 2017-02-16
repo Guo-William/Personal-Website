@@ -14,16 +14,16 @@
 {
   position:relative;
   font-size: 125%;
-  padding-left: 3%
+  padding-left: 2%
 }
 /*puts the name before the description*/
 .name:before
 {
-  position:relative;
+  /*position:relative;
   color: #a1b56c;
-  content:"William Guo";
-  left: -2.5%;
-  font-size:250%;
+  content:"William Guo";*/
+  /*left: -2.5%;*/
+  /*font-size:250%;*/*/
 }
 
 /*The background color of the entire page. */
