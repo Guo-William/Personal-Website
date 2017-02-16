@@ -18,7 +18,7 @@
         <?php require('../includes/navbar.php');?>
       </div>
       <div class="col-xs-12 col-sm-5 col-md-5 col-lg-3 col-lg-offset-1">
-        <br><br><br><br>
+        <br><br>
         <?php require('../pages/ProjectPieces/AnemoSlips.php');?>
       </div>
     </div>
