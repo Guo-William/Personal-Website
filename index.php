@@ -30,9 +30,9 @@
             <?php require('includes/navbar.php');?>
         </div>
         <div class="col-xs-12 col-sm-3 col-md-1 col-lg-1"></div>
-        <div class="head-shot col-xs-12 col-sm-3 col-md-2 col-lg-2">
+        <div class="col-xs-12 col-sm-3 col-md-2 col-lg-2" style="padding:0">
             <img class="center-block" src="images\headshot.jpg" alt="Headshot"
-            style="width:96%; height:96%;">
+            style="width:100%; height:100%; padding:0">
         </div>
         <div class="theTop col-xs-12 col-sm-4 col-md-7 col-lg-7">
             <p class="name">
@@ -44,11 +44,11 @@
 
         <div class="col-xs-12 col-sm-2 col-md-12 col-lg-12">
             <br><br>
-            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 col-md-offset-1 col-lg-offset-1" >
+            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 col-md-offset-2 col-lg-offset-2" >
                 <b class="resume-title" style="color: #333">Updates</b>
             </div>
 
-            <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-1 col-lg-offset-1">
+            <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7">
                 <p>
                     <b>Jan 2017</b><br>
                     Completed my first co-op which was at PowerAdvocate. <br>
@@ -60,12 +60,12 @@
         </div>
 
         <div class="col-xs-12 col-sm-2 col-md-12 col-lg-12" style="background-color: #181818; z-index: -10">
-            <div class="col-xs-12 col-sm-12 col-md-2 col-lg- col-md-offset-1 col-lg-offset-1" >
+            <div class="col-xs-12 col-sm-12 col-md-2 col-lg- col-md-offset-2 col-lg-offset-2" >
                 <br>
                 <b class="resume-title" style="color: #a1b56c">About</b>
             </div>
 
-            <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-1 col-lg-offset-1">
+            <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7">
                 <br>
                 <p style="color:#777;">
                     I'm a Junior at Northeastern University majoring in Computer Science.
