@@ -38,7 +38,6 @@
                 <br>
                 Undergraduate At Northeastern University, Boston, MA<br>
                 Candidate for Bachelors of Science in Computer Science<br>
-                Fundamentals of Computer Science I Tutor at Northeastern University
             </p>
         </div>
 
