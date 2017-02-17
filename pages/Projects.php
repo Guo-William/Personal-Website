@@ -15,7 +15,7 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1" style="padding:0;margin:0;">
-            <?php require('includes/navbar.php');?>
+            <?php require('../includes/navbar.php');?>
         </div>
       <div class="col-xs-12 col-sm-5 col-md-5 col-lg-3 col-lg-offset-1">
         <br><br>
