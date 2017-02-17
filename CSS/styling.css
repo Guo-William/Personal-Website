@@ -103,7 +103,7 @@ p.project-description
 /* Here lies the navbar CSS */
 
 
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 992px) {
   .navbar-collapse {
     height: 0 !important;
     border-top: 0;
@@ -195,7 +195,7 @@ p.project-description
   float: left;
 }
 
-@media only screen and (min-width : 1200px) {
+@media only screen and (min-width : 992px) {
   .jankStuff
   {
     position: absolute;
