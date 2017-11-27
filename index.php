@@ -54,13 +54,13 @@
 
             <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7">
                 <p>
-                    <b>Jan 2017</b><br>
-                    Completed my first co-op which was at PowerAdvocate. <br>
-                    Currently on the search for my second co-op for July - December 2017
+                    <b>November 2017</b><br>
+                    Currently on co-op at Clypd <br>
+                    Searching for full time employment after graduation(May 2018).
                 </p>
                 <br>
             </div>
-          
+
         </div>
 
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="background-color: #181818; z-index: -10">
@@ -72,8 +72,8 @@
             <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7">
                 <br>
                 <p style="color:#777;">
-                    I'm a Junior at Northeastern University majoring in Computer Science.
-                    Looking for software development co-ops. <br> I have an interest in operations, back end, and front end development. I am also starting to gain an interest in network securities too.
+                    I'm a Senior at Northeastern University majoring in Computer Science.
+                    Looking for a full-time position after graduation. <br> I have an interest in operations, back end, and front end development.
                 </p>
                 <br><br>
             </div>

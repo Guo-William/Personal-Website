@@ -42,6 +42,22 @@
           <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
             <b class="resume-title" style="color: #a1b56c">Work Experience</b>
           </div>
+
+          <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-1 col-lg-offset-1">
+            <b>Clypd, Somerville, MA</b><br>
+            <i>UI Web Developer Co-op</i><br>
+            <ul>
+              <li>Built front end components using React and Redux.</li>
+              <li>Wrote robust unit tests in Jasmine to thoroughly ensure expected behaviors.</li>
+              <li>Conducted releases and monitored reporting services to triaged bugs on a rotating basis.</li>
+              <li>Feature led epic by fleshing out details in tickets and pointing them accurately.</li>s
+            </ul>
+          </div>
+          <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+            <span class="resume-dates">Fall 2017</span>
+          </div>
+        </div>
+
           <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-1 col-lg-offset-1">
             <b>PowerAdvocate, Boston, MA</b><br>
             <i>Full Stack Web Developer Co-op</i><br>
@@ -63,7 +79,7 @@
           </div>
           <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-1 col-lg-offset-1">
             <b>Northeastern College of Computer and Information Science, Boston, MA</b><br>
-            <i>Teacher’s Assistant for Intensive Foundations of Computer Science</i><br>            
+            <i>Teacher's Assistant for Intensive Foundations of Computer Science</i><br>
             <ul>
               <li>Assessed weekly homework assignments.</li>
               <li>Aided students in grasping the basics of programming and data structures.</li>
@@ -75,7 +91,7 @@
           </div>
 
           <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-3 col-lg-offset-3">
-            <i>Teacher’s Assistant for Fundamentals of Computer Science I</i><br>
+            <i>Teacher's Assistant for Fundamentals of Computer Science I</i><br>
             <ul>
               <li>Facilitated labs, teaching fundamental concepts, on a weekly basis to 50 students.</li>
               <li>Reviewed grading done by tutors by meta-grading assignments.</li>
@@ -118,7 +134,7 @@
         <div class="row row-top-buffer work-exp-color">
           <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-3 col-lg-offset-3">
             <b>Northeastern University, Boston, MA</b><br>
-            <i>Office Assistant at the Asian American Center</i><br>            
+            <i>Office Assistant at the Asian American Center</i><br>
             <ul>
               <li>Oversaw and assisted in large events</li>
               <li>Managed usage of rooms in the center</li>
