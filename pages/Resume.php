@@ -50,7 +50,7 @@
               <li>Built front end components using React and Redux.</li>
               <li>Wrote robust unit tests in Jasmine to thoroughly ensure expected behaviors.</li>
               <li>Conducted releases and monitored reporting services to triaged bugs on a rotating basis.</li>
-              <li>Feature led epic by fleshing out details in tickets and pointing them accurately.</li>s
+              <li>Feature led epic by fleshing out details in tickets and pointing them accurately.</li>
             </ul>
           </div>
           <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
@@ -58,8 +58,9 @@
           </div>
         </div>
 
-          <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-1 col-lg-offset-1">
-            <b>PowerAdvocate, Boston, MA</b><br>
+	<div class="row row-top-buffer work-exp-color">
+          <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-3 col-lg-offset-3">
+       	    <b>PowerAdvocate, Boston, MA</b><br>
             <i>Full Stack Web Developer Co-op</i><br>
             <ul>
               <li>Built front end applications using ExtJS and JQuery.</li>
@@ -67,8 +68,8 @@
               <li>Created unit tests for both front and back end code using Jasmine, Mockito, and TestNG.</li>
               <li>Performed manual and QA testing on all features built.</li>
               <li>Presented work to the company on a bi-weekly basis.</li>
-            </ul>
-          </div>
+            </ul>   
+	  </div>
           <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
             <span class="resume-dates">Fall 2016</span>
           </div>
@@ -119,7 +120,7 @@
 
         <div class="row row-top-buffer work-exp-color">
           <div class="col-xs-10 col-sm-9 col-md-7 col-lg-7 col-md-offset-3 col-lg-offset-3">
-            <b>THe Bowne House Historical Society, Flushing, NY</b><br>
+            <b>The Bowne House Historical Society, Flushing, NY</b><br>
             <i>Bowne House Web Development Intern</i><br>
             <ul>
               <li>Designed a website for the Bowne House that fit employer's specifications</li>
