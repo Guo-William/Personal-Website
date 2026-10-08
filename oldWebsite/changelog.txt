@@ -1,4 +1,0 @@
-8/23/2015
-Going to start using Bootstrap 3
-
-*Changed the navbar
